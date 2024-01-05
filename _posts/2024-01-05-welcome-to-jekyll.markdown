@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to JiWorld!"
 date:   2024-01-05 09:33:25 +0900
 categories: jekyll update
 ---

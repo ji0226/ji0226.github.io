@@ -1,0 +1,33 @@
+---
+layout: post
+title:  "240102TIL- 웹페이지에 방문하기까지.."
+date:   2024-01-02 09:33:25 +0900
+categories: Network
+---
+--
+테스트-
+--
+---
+테스트--
+---
+- 서버와 클라이언트
+
+크롬과 같은 웹브라우저를 사용하면 누군가 만들어 놓은 웹페이지에 쉽게 접속하고, 서비스를 이용할 수 있다.
+
+여기서 정보를 이용하는 측은 `클라이언트`, 정보를 제공하는 측은 `서버`이다.
+
+나는 항상 클라이언트의 입장일 뿐 서버는 게임할 때나 들어본 생소한 개념이었지만,
+
+알고 보니 서버도 똑같은 컴퓨터였다.
+
+내가 앞으로 소스코드를 작성해 어떤 것을 개발하면 그 파일을 관리하고 인터넷에 올리는 것이 서버 컴퓨터이고
+
+클라이언트는 웹브라우저를 통해 나의 컴퓨터에 방문한다.
+
+그렇다면 어떻게 두 대의 컴퓨터가 서로 통신을 할 수 있는 것일까?
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
